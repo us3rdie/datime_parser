@@ -1,0 +1,17 @@
+{
+  "name": "datime_parser",
+  "version": "0.0.1",
+  "description": "My small project is to parse an arbitrary date/time string into an understandable format",
+  "main": "class.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "author": "userdie",
+  "license": "ISC",
+  "dependencies": {
+    "@million/lint": "^0.0.60",
+    "nodemon": "^3.0.3",
+    "prettier": "^3.2.5"
+  }
+}
